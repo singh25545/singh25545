@@ -31,7 +31,7 @@ github
 
 ## 🚀 Un progetto che mi piacerebbe realizzare
 
-...
+uno su github
 
 ## 🎯 Guardando al futuro
 
